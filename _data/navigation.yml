@@ -10,3 +10,5 @@ main:
     url: /maps/
   - title: "Team"
     url: /team/
+  - title: "SP"
+    url: /sample-page/
