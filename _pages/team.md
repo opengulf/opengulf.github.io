@@ -26,13 +26,13 @@ author_profile: false
 | Süphan Kırmızıaltın | NYU Abu Dhabi | automatic transcription, data modeling, HTR model creation |
 
 | name | affiliation | responsibilities |
-| Iman Deriche | Stanford | annotation, disambiguation, data analysis, mapping |
-| Julia Fine | Stanford | annotation, disambiguation, data analysis, mapping |
-| Jana Abdullah Gomri | Stanford | annotation, disambiguation, data analysis, mapping, automatic transcription of Arabic |
-| Raghad Hasanein | Stanford | annotation, disambiguation, data analysis, mapping, automatic transcription of Arabic |
-| Anne Ladyem McDivitt | Stanford | project management, technical consultation |
-| Enkhjin Munkhbayar | Stanford | annotation, disambiguation, data analysis, mapping, coding for automating processes |
-| Khosiyat Oripova | Stanford | annotation, disambiguation, data analysis, mapping |
+| Iman Deriche | Stanford U | annotation, disambiguation, data analysis, mapping |
+| Julia Fine | Stanford U | annotation, disambiguation, data analysis, mapping |
+| Jana Abdullah Gomri | Stanford U | annotation, disambiguation, data analysis, mapping, automatic transcription of Arabic |
+| Raghad Hasanein | Stanford U | annotation, disambiguation, data analysis, mapping, automatic transcription of Arabic |
+| Anne Ladyem McDivitt | Stanford U | project management, technical consultation |
+| Enkhjin Munkhbayar | Stanford U | annotation, disambiguation, data analysis, mapping, coding for automating processes |
+| Khosiyat Oripova | Stanford U | annotation, disambiguation, data analysis, mapping |
 
 
 ## Former Team Members
