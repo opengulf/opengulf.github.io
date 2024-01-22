@@ -12,8 +12,9 @@ author_profile: false
 
 ## Project Co-Directors
 
-Nora Barakat
-David Joseph Wrisley
+Nora Barakat (Stanford)
+David Joseph Wrisley (NYU Abu Dhabi)
+
 	
 ## Current Team Members
 
