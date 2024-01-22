@@ -18,11 +18,12 @@ David Joseph Wrisley (NYU Abu Dhabi)
 	
 ## Current Team Members
 
-- Nada Ammagui (Arab Gulf States Institute) - annotation, data analysis, mapping, transcription, research
-- Camille Cole (Illinois State U) - map data creation, historical text annotation
-- Mustafa Emre Günaydı (Stanford U) - web design, project management, disambiguation, data analysis, mapping
-- Moe Khalil (Stanford U) - automatic transcription of Arabic, annotation, transcription
-- Süphan Kırmızıaltın (NYU Abu Dhabi) - automatic transcription, data modeling, HTR model creation
+| name | affiliation | responsabilities | 
+| Nada Ammagui | Arab Gulf States Institute | annotation, data analysis, mapping, transcription, research |
+| Camille Cole | Illinois State U | map data creation, historical text annotation |
+| Mustafa Emre Günaydı | Stanford U | web design, project management, disambiguation, data analysis, mapping |
+| Moe Khalil | Stanford U | automatic transcription of Arabic, annotation, transcription |
+| Süphan Kırmızıaltın | NYU Abu Dhabi | automatic transcription, data modeling, HTR model creation |
 
 
 - Iman Deriche (Stanford) - annotation, disambiguation, data analysis, mapping
@@ -37,15 +38,15 @@ David Joseph Wrisley (NYU Abu Dhabi)
 ## Former Team Members
 
 
-Yesmine Abida (NYU Abu Dhabi) - annotation, research
-Salama AlZaabi (NYU Abu Dhabi) - annotation, research
-Prince Ampofo (NYU Abu Dhabi) - digitization, image manipulation, data enrichment
-Zaina Awan (NYU Abu Dhabi) - annotation, transcription, data analysis
-Iván Budnik (NYU Abu Dhabi) - code, data extraction, data enrichment
-David Curcurbet (NYU Abu Dhabi) - annotation, research
-Sidra Dahhan (NYU Abu Dhabi) - annotation, transcription, data analysis
-Haneen Fathy (NYU Abu Dhabi) - automatic transcription of Arabic
-Liyan Ibrahim (NYU Abu Dhabi) - data analysis and manipulation, website design, visualization
+- Yesmine Abida (NYU Abu Dhabi) - annotation, research
+- Salama AlZaabi (NYU Abu Dhabi) - annotation, research
+- Prince Ampofo (NYU Abu Dhabi) - digitization, image manipulation, data enrichment
+- Zaina Awan (NYU Abu Dhabi) - annotation, transcription, data analysis
+- Iván Budnik (NYU Abu Dhabi) - code, data extraction, data enrichment
+- David Curcurbet (NYU Abu Dhabi) - annotation, research
+- Sidra Dahhan (NYU Abu Dhabi) - annotation, transcription, data analysis
+- Haneen Fathy (NYU Abu Dhabi) - automatic transcription of Arabic
+- Liyan Ibrahim (NYU Abu Dhabi) - data analysis and manipulation, website design, visualization
 Donia Ismail (NYU Abu Dhabi) - annotation, research
 Rhea Kale (Stanford U) - annotation, research, data quality
 Mirela Minkova (NYU Abu Dhabi) - annotation, research
