@@ -1,10 +1,10 @@
 ---
 layout: splash
 permalink: /
-hidden: false
+hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets/images/oasismosque.jpg
+  overlay_image: /assets/images/cropoasismosque.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
