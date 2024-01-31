@@ -2,7 +2,7 @@
 layout: page
 title: Historical Texts as Data
 description: Lorimer Information  
-
+permalink: /historicaltexts/
 nav-menu: false
 ---
 
