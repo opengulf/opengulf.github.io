@@ -2,7 +2,7 @@
 layout: post
 title: Maps
 description: Collection of Maps
-
+permalink: /maps/
 nav-menu: true
 ---
 
