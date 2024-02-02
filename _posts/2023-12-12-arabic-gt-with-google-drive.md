@@ -1,5 +1,5 @@
 ---
-title: "Place Name Changes in Arabistan (Khuzestan)"
+title: "Building Handwritten Ground Truth for HTR with the Google Vision API in Google Drive"
 excerpt_separator: "<!--more-->"
 categories:
   - HTR
@@ -9,13 +9,14 @@ tags:
 ---
 
 
-Building Handwritten Ground Truth for HTR with the Google Vision API in Google Drive 
+## Building Handwritten Ground Truth for HTR with the Google Vision API in Google Drive 
 
-Fady John
+### Fady John
+
 
 In today's digital era, leveraging advanced technologies to streamline and enhance a scholarly workflow is important. One such technology that has been making waves is the Vision API, a powerful tool provided by Google Cloud. 
 
-Christopher Rose explained in a post how [we can use Google Docs to OCR Arabic text](https://christophersrose.com/2020/05/05/how-to-use-google-docs-to-ocr-arabic-text/). Similar to Rose, in this post I will provide a tutorial on how we can harness the capabilities of the Vision API to transcribe images digitized samples of Arabic (or any other language for that matter) handwritten using Google Docs. These transcriptions, although imperfect, create a a baseline text which can then be human corrected and reused as ground truth (GT) for handwritten text recognition (HTR) systems such as Transkribus. 
+Christopher Rose explained in a post how [we can use Google Docs to OCR Arabic text](https://christophersrose.com/2020/05/05/how-to-use-google-docs-to-ocr-arabic-text/). Similar to Rose, in this post I will provide a tutorial on how we can harness the capabilities of the Vision API to transcribe images digitized samples of Arabic (or any other language for that matter) handwritten using Google Docs. These transcriptions, although imperfect, create a baseline text which can then be human corrected and reused as ground truth (GT) for handwritten text recognition (HTR) systems such as Transkribus. 
 
 In the Fall 2023 semester working with the HTR working group for regional languages at NYU Abu Dhabi, I used this method to create GT for an Arabic HTR model in Transkribus. 
 
