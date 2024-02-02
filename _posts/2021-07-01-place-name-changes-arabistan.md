@@ -17,7 +17,7 @@ Place names in Khuzestan, a region of Iran, have changed tremendously over the l
 
 Even in its presently incomplete state, the OpenGulf data on Arabistan can begin to address this gap. Below, I have compiled a map showing the present names of places and their names that appear in Lorimer. Some obvious examples of political name changes stand out, such as Abdush Shah, slave of the Shah in Arabic, to Inqilab, Farsi for revolution, Fallahiyeh, a name derived from the Arabic word for farming, to Shadegan, Shahabad, or place of the Shah, to Islamabad, or place of Islam. While this is a cursory look at the data, it demonstrates the potential of the OpenGulf data as a foundation for a history of place name changes in Khuzestan and the Persian Coast.
 
-<img src="/assets/images/namechanges1.jpg" style="zoom:25%;" />
+<img src="/assets/images/namechanges1.jpg" style="zoom:50%;" />
 
 Figure 1: A map showing localities labelled with their current name and former names.
 

@@ -24,15 +24,15 @@ The following steps show how you can you can do this:
 
 - Start by scanning or taking high-quality images of your handwritten documents. Upload these images to Google Drive. Organize them into a dedicated folder for better management.
 
-<img src="/assets/images/fadyblogstep1.png" style="width:820px;height:200px;">
+<img src="/assets/images/fadyblogstep1.png" style="zoom:50%;" />
 
 - Simply right-click (control-click) on the image and choose "Open with Google Docs." This straightforward action opens the selected image directly in the Google Docs application.
 
-<img src="/assets/images/fadyblogstep2.png" style="width:750px;height:250px;"><br>
+<img src="/assets/images/fadyblogstep2.png" style="zoom:50%;" />
 
 The generated document displays both the image and its transcribed text, as shown in the image below.
 
-<img src="/assets/images/fadyblogstep3.png" style="width:600px;height:250px;">
+<img src="/assets/images/fadyblogstep3.png" style="zoom:50%;" />
 
 
 The result of that method is actually impressive, as it has the ability to transcribe even complex Arabic historical handwriting that many people cannot read. Of course, there are some spelling issues which need to be corrected in the text, but the process of correction is much faster than transcribing from scratch. 
