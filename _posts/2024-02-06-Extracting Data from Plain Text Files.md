@@ -10,6 +10,7 @@ tags:
 
 # Extracting Repeated Quantities from Plain Text Files Using AntConc and Formulas in Google Sheets
 
+Liyan Ibrahim
 
 When creating historical data for map-making, structured datasets makes the process easier and cleaner. This blog will provide a detailed tutorial on how to extract quantities of a certain attribute from a collection of text files using low-barrier digital platforms: AntConc and Google Sheets. In this tutorial, I will be extracting the number of donkeys mentioned in each text file. 
 
