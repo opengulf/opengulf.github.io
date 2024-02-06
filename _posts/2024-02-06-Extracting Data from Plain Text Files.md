@@ -17,7 +17,7 @@ Download all the text files into one folder.
 
 Import all the text files into AntConc File → Open Directory and navigate to the same folder with the text files and import them.
 		
-Once these files are imported, AntConc should look like this:<
+Once these files are imported, AntConc should look like this:
 
 <img src="/assets/images/i1.jpg" style="width:500px;height:300px;">
 
