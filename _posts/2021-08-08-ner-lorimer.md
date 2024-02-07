@@ -24,32 +24,26 @@ Moreover, the Gazetteer has an incomparably diverse and extensive set of geograp
 
 Named Entity Recognition (NER) is the task of locating, extracting and classifying names with a specific set of named entity types (e.g. Person, Organization, Location). This task can be broken down into two sub-tasks: identifying the boundaries of the named entity and identifying its type. Below are the most common types of Named Entities that are supported by NLTK, Stanford CoreNLP and other libraries.
 
-</p>
-<figure>
-  <img src="../assets/images/alma_nltk_blog/almablog1.png" style="width:450px;
-height:150px;">
-  <figcaption>Figure 1. This table shows common Named Entities and their types. Source: <a class="link" href="https://www.nltk.org/book">NLTK textbook</a>.
-</figcaption>
-</figure>
-<br/>
-<p>
-  NER has valuable applications for many important NLP tasks with the most impactful being Information Retrieval, a task of identifying and retrieving documents based on a query (e.g. Google search). IR can benefit from NER in two ways: recognizing named entities (NEs) within the searched documents, and then extracting the relevant documents considering their classified NEs and how they are related to the query (Rosso 2009a).</p>
-<p>
-  <i>For example, the word “Aljazeera” can be tagged either as an Organization (news source) or as a Location (island) - correct NE tagging will facilitate extraction of the correct documents based on a query.</i></p>
-  <p>
-In these series of blog posts, we explore two Named Entity Recognition models: an NER model using NLTK (Natural Language Toolkit) and an NER model custom-trained for Arabic language using Spacy. 
-</p>
-<h3 style="font-size: 18px; text-align: center">
-  III. Named Entity Recognition with NLTK
-</h3>
-<h4 style="font-size: 17px; text-align: center">III. A. About NLTK and its Information Extraction architecture, as outlined by NLTK</h4>
+<img src="/assets/images/alma_nltk_blog/almablog1.png" style="zoom:35%;" />
 
-<p>
-  The Natural Language Toolkit, or more commonly NLTK, is a set of libraries written in python for Natural Language Processing for English-language texts by Steven Bird and Edward Loper at the University of Pennsylvania. NLTK is a leading platform for many NLP tasks including Named Entity Recognition, therefore, an NER model based on NLTK can serve as a good baseline. However, as authors recognize themselves (NLTK, chapter 7), it is trained primarily on English language text and, thus, does not always predict Named Entity labels and values for foreign language or transliterated texts.
-</p>
-<h4 style="font-size: 17px; text-align: center">III. B. System description</h4>
-<p>
+Figure 1. This table shows common Named Entities and their types. Source: [NLTK Textbook](https://www.nltk.org/book).
+
+NER has valuable applications for many important NLP tasks with the most impactful being Information Retrieval, a task of identifying and retrieving documents based on a query (e.g. Google search). IR can benefit from NER in two ways: recognizing named entities (NEs) within the searched documents, and then extracting the relevant documents considering their classified NEs and how they are related to the query (Rosso 2009a).
+
+For example, the word “Aljazeera” can be tagged either as an Organization (news source) or as a Location (island) - correct NE tagging will facilitate extraction of the correct documents based on a query.
+
+In these blog posts, we explore two Named Entity Recognition models: an NER model using NLTK (Natural Language Toolkit) and an NER model custom-trained for Arabic language using Spacy. 
+
+###  III. Named Entity Recognition with NLTK
+
+#### III. A. About NLTK and its Information Extraction architecture, as outlined by NLTK
+
+The Natural Language Toolkit, or more commonly NLTK, is a set of libraries written in python for Natural Language Processing for English-language texts by Steven Bird and Edward Loper at the University of Pennsylvania. NLTK is a leading platform for many NLP tasks including Named Entity Recognition, therefore, an NER model based on NLTK can serve as a good baseline. However, as authors recognize themselves (NLTK, chapter 7), it is trained primarily on English language text and, thus, does not always predict Named Entity labels and values for foreign language or transliterated texts.
+
+#### III. B. System description
+
 Naturally, our NER model based on NLTK follows the Information Extraction Architecture outlined by NLTK:
+
 <figure>
   <img src="../assets/images/alma_nltk_blog/almablog2.png" style="width:420px;
 height:200px;">
