@@ -4,9 +4,11 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Posts"
-    url: /posts/
   - title: "Maps"
     url: /maps/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
   - title: "Team"
     url: /team/
