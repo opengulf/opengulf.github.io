@@ -44,16 +44,10 @@ The Natural Language Toolkit, or more commonly NLTK, is a set of libraries writt
 
 Naturally, our NER model based on NLTK follows the Information Extraction Architecture outlined by NLTK:
 
-<figure>
-  <img src="../assets/images/alma_nltk_blog/almablog2.png" style="width:420px;
-height:200px;">
-  <figcaption>Figure 2. A sample Information Extraction Architecture pipeline. Source: <a class="link" href="https://www.nltk.org/
-book">NLTK textbook</a>.
-</figcaption>
-</figure>
-</p>
-<br/>
-<p>
+<img src="/assets/images/alma_nltk_blog/almablog2.png" style="zoom:35%;" />
+
+Figure 2. A sample Information Extraction Architecture pipeline. Source: [NLTK Textbook](https://www.nltk.org/book).
+
 To summarize the steps, the system starts with <b>splitting the raw text</b> into words using a tokenizer (sometimes pre-segmenting text into sentences first). Next, each sentence is tagged with <b>part-of-speech tags</b>, which will prove very helpful in the next steps: <b>chunking</b> and finally <b>named entity detection</b>.
 </p>
 <h5 style="font-size: 16px"><i>Text preprocessing</i></h5>
