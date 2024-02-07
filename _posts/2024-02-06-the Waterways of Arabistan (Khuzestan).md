@@ -10,7 +10,7 @@ tags:
 
 ## The Waterways of Arabistan (Khuzestan) in Lorimer's Gazetteer
 
-**Everett Pruitt**
+**By Everett Pruitt**
 
 
 In the work that we know as Lorimer’s Gazetteer of the Persian Gulf, Oman and Central Arabia, the various compilers of information about the region rely on various geographic reference points to situate locations. In their description of Arabistan, now Khuzestan Province in Iran, they rely heavily on canals and rivers as the main geographic reference points. An example of this can be found in the entry on the Karun River, in which the locations of riverside villages are measured in "[m]iles by river below Band-i-Qīr and on which bank [they are] situated" with the relevant data organized tabularly in the source. This reliance on canals and rivers in Arabistan poses a problem to researchers attempting to reconstruct geographic information in Lorimer due to the lack of continuity between the waterways of the late nineteenth and early twentieth centuries and the landscape of contemporary Khuzestan.
