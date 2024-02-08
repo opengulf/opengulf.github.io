@@ -4,7 +4,7 @@ permalink: /maps/
 date: 2024-02-09
 ---
 
-[Buraimi Oasis]
+<h3><a href="../pearling" class="link">Buraimi Oasis</a></h3>
 Historical neighborhoods of the Buraimi oasis in the early 20th century (featuring number of houses, animals and date palms
 
 <h3><a href="../pearling" class="link">Protection of the Pearling Industry</a></h3>
