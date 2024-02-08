@@ -5,7 +5,7 @@ date: 2024-02-09
 ---
 
 [Buraimi Oasis]
-Historical neighborhoods of the Buraimi oasis in the early 20th century (featuring number of houses, animals and date palms)
+Historical neighborhoods of the Buraimi oasis in the early 20th century (featuring number of houses, animals and date palms
 
 <h3><a href="../pearling" class="link">Protection of the Pearling Industry</a></h3>
 Map of the Gulf, locations of pearling towns and the flag of the protecting entity
