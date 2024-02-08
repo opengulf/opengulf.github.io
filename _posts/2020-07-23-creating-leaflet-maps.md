@@ -10,7 +10,7 @@ tags:
 
 ## From Digital Historical Source to Leaflet Maps 
 
-By Liyan Ibrahim
+**By Liyan Ibrahim**
 
 Visualizing historical data is a great method of portraying important historical information  to the general public. It not only allows us to create a visual narrative of the data we have but also helps historians and researchers understand the data they produce by seeing it.  Visualization, although it introduces new interpretative challenges, is quite powerful for generating new hypotheses and important research questions within that field. In our case, the historical data came from the annotation of the Geographical and Statistical section of[Lorimer's](https://archive.org/details/in.ernet.dli.2015.206963) Gazetteer of the Persian Gulf, Oman and Central Arabia. Therefore, developing a workflow for  navigating between the platforms used for annotation and  mapping  was an important part of this project.
 
