@@ -1,6 +1,7 @@
 ---
 title: "Place Name Changes in Arabistan (Khuzestan)"
 excerpt_separator: "<!--more-->"
+$paragraph-indent: true
 categories:
   - Lorimer
 tags:
