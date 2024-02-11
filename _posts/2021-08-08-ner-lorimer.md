@@ -12,7 +12,7 @@ tags:
 
 **By Alma Kapan**
 
-### I. Project Motivation
+# I. Project Motivation
 
 This project sits at the intersection of Data Mining, Digital Humanities and Natural Language Processing, particularly, Information Extraction. We aim at detecting the geographical Named Entities from the John G. Lorimer's Gazetteer of the Persian Gulf, Central Arabia and Oman, a canonical artifact of British imperial knowledge production about the Gulf region, including contemporary Iran, Iraq and the GCC states. The dataset includes more than 800 text files pertaining to each geographical location. View more details about the dataset [here](https://opengulf.github.io/lorimer/). 
 
@@ -20,7 +20,7 @@ Whereas a group of researchers have been annotating the Gazetteer manually and i
 
 Moreover, the Gazetteer has an incomparably diverse and extensive set of geographical named entities that could be of great use for future visualization and data mining projects. You can also learn more about similar Data Mining projects in Humanities in this [paper](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bult.2012.1720380406). 
 
-### II. What is NER and its importance
+# II. What is NER and its importance
 
 Named Entity Recognition (NER) is the task of locating, extracting and classifying names with a specific set of named entity types (e.g. Person, Organization, Location). This task can be broken down into two sub-tasks: identifying the boundaries of the named entity and identifying its type. Below are the most common types of Named Entities that are supported by NLTK, Stanford CoreNLP and other libraries.
 
@@ -34,13 +34,13 @@ For example, the word “Aljazeera” can be tagged either as an Organization (n
 
 In these blog posts, we explore two Named Entity Recognition models: an NER model using NLTK (Natural Language Toolkit) and an NER model custom-trained for Arabic language using Spacy. 
 
-###  III. Named Entity Recognition with NLTK
+# III. Named Entity Recognition with NLTK
 
-#### III. A. About NLTK and its Information Extraction architecture, as outlined by NLTK
+# III. A. About NLTK and its Information Extraction architecture, as outlined by NLTK
 
 The Natural Language Toolkit, or more commonly NLTK, is a set of libraries written in python for Natural Language Processing for English-language texts by Steven Bird and Edward Loper at the University of Pennsylvania. NLTK is a leading platform for many NLP tasks including Named Entity Recognition, therefore, an NER model based on NLTK can serve as a good baseline. However, as authors recognize themselves (NLTK, chapter 7), it is trained primarily on English language text and, thus, does not always predict Named Entity labels and values for foreign language or transliterated texts.
 
-#### III. B. System description
+# III. B. System description
 
 Naturally, our NER model based on NLTK follows the Information Extraction Architecture outlined by NLTK:
 
