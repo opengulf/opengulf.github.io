@@ -4,7 +4,7 @@ permalink: /maps/
 date: 2024-02-16
 ---
 
-1. [Buraimi Oasis](_pages/buraimioasis.md)
+1. [Buraimi Oasis](/buraimi/)
  
 2. [Seyahatname](seyahatname.md)
 
