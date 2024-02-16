@@ -1,6 +1,6 @@
 ---
 title: "Collection of Maps"
-permalink: /maps/
+permalink: 
 date: 2024-02-09
 ---
 
