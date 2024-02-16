@@ -1,10 +1,8 @@
 ---
-layout: page
-title: Buraimi Oasis
-description: Maps 
-permalink: /buraimi/
+title: "Collection of Maps"
+permalink: /maps/
+date: 2024-02-16
 ---
-
 
 ## Buraimi Oasis
 
