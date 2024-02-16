@@ -6,7 +6,7 @@ date: 2024-02-16
 
 1. [Buraimi Oasis](/buraimi/)
  
-2. [Seyahatname](seyahatname.md)
+2. [Seyahatname](_pages/seyahatname)
 
 3. [Protection of the Pearling Industry]
 
