@@ -1,6 +1,6 @@
 ---
 title: "Collection of Maps"
-permalink: /_pages/maps.md/
+permalink: /maps/
 date: 2024-02-16
 ---
 
