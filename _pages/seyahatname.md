@@ -48,12 +48,12 @@ Although we were able to locate 2368 place names mentioned in the _Seyahatname_,
 
 Creator of this dataset: Mustafa Emre Gunaydi
 
-### Link to this<a href="https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv" class="link">[dataset](https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv)
+Link to this<a href="https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv" class="link">[dataset](https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv)
 
-### License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Creative Commons 4.0 BY-NC-SA International</a> <br>
+License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Creative Commons 4.0 BY-NC-SA International</a> <br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
 
 
-### Suggested Citation: Gunaydi, Mustafa Emre. (2023). Mapping Seyahatname-i Hudud_Baghdad and Basra Chapters [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8356455
+**Suggested Citation:** Gunaydi, Mustafa Emre. (2023). Mapping Seyahatname-i Hudud_Baghdad and Basra Chapters [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8356455
 
-### Last update: 16 February 2024
+**Last update:** 16 February 2024
