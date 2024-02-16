@@ -1,5 +1,5 @@
 ---
-title: "Collection of Maps"
+title: "Buraimi Oasis"
 permalink: /maps/
 date: 2024-02-16
 ---
