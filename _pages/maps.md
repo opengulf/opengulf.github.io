@@ -1,7 +1,7 @@
 ---
 title: "Collection of Maps"
-permalink: 
-date: 2024-02-09
+permalink: /maps/
+date: 2024-02-16
 ---
 
 <h3><a href="_pages/buraimioasis.md" class="link">Buraimi Oasis</a></h3>
