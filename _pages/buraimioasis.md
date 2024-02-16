@@ -1,7 +1,7 @@
 ---
-title: "Buraimi Oasis"
-permalink: /maps/
-date: 2024-02-16
+title: "Buraimi Oasis Map"
+permalink: /page-a/
+date: 2024-02-16T18:38:52+00:00
 ---
 
 ## Buraimi Oasis
