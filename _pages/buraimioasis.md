@@ -3,7 +3,6 @@ layout: page
 title: Buraimi Oasis
 description: Maps 
 permalink: /maps/
-nav-menu: false
 ---
 
 
