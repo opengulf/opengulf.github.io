@@ -25,7 +25,7 @@ url                      : "https://opengulf.github.io" # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "opengulf" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/cropoasismosque.jpg"
-logo                     : "/assets/images/OpenGulf-logos.jpeg"
+logo                     : "/assets/images/Screenshot 2024-02-16 at 12.50.05.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
