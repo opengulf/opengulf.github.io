@@ -6,7 +6,7 @@ date: 2024-02-16T18:38:52+00:00
 
 ### Camels in the early 20th Century Arabian Gulf
   
-<iframe src="https://opengulf.github.io/webapps/camels_map/#6/27.167/52.273" width="100%" height="700"></iframe>
+<iframe src="https://mustafaemregunaydi/Desktop/opengulf.github.io/webapps/camels_map/index.html#6/27.946/51.919" width="100%" height="700"></iframe>
 
 
 **How to explore this map:** Click on each dot on the map and you will see a breakdown of the data about camels found in John Gordon Lorimer's Gazetteer of the Persian Gulf, Oman and Central Arabia in the pop-up box. This map has one layer with labels for all 642 points, although all the labels are not visible (for reasons of occlusion and clutter) at all zoom levels.  
