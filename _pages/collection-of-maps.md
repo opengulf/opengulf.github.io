@@ -8,7 +8,7 @@ date: 2024-02-16
 
 Historical neighborhoods of the Buraimi oasis in the early 20th century (featuring number of houses, animals and date palms
  
-2. [Seyahatname](/seyahatname/)
+2. [Seyahatname-i Hudud](/seyahatname/)
 
 Places found in the Seyahatname chapters for Basra and Baghdad
 
