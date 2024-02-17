@@ -5,7 +5,7 @@ date: 2024-02-16T18:38:52+00:00
 ---
 
 
- ### Bahrain Date Palm map
+## Bahrain Date Palm map
  
 <iframe src="https://liyanibrahim.github.io/dates_Bah/web/index.html#12/26.1725/50.5472" width="100%" height="800"></iframe>
 
