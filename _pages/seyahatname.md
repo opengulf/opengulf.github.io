@@ -5,7 +5,7 @@ date: 2024-02-16T18:38:52+00:00
 ---
 
 ## Mapping the Basra and Baghdad chapters of _Seyahatname-i Hudud_
-<iframe src="file:///mustafaemregunaydi/Desktop/opengulf.github.io/webapps/Seyahatname_map_Baghdad%20&%20Basra/index.html#7/33.161/46.631" width="100%" height="700"></iframe>
+<iframe src="https://opengulf.github.io/webapps/Seyahatname_map_Baghdad & Basra/index.html#6/33.161/46.631" width="100%" height="700"></iframe>
 
 
 ### About the Source: 
@@ -38,7 +38,7 @@ Although we were able to locate 2368 place names mentioned in the _Seyahatname_,
 
 ### Footnotes:
 
-[^1]: Zekeriya Kurşun, “Mehmed Hurşid Paşa’nın Seyahatnâme-i Hudud Adlı Eserine Göre XIX. YÜZYIL ORTALARINDA B YEZİD SANCAĞI,” Türk Kültürü İncelemeleri Dergisi 2 (2000): 101. Sabri Ateş, Ottoman-Iranian Borderlands (Cambridge University Press, 2013), 143-6.
+[^1]: Zekeriya Kurşun, “Mehmed Hurşid Paşa’nın Seyahatnâme-i Hudud Adlı Eserine Göre XIX. Yüzyıl Ortalarında Bayezid Sancağı,” Türk Kültürü İncelemeleri Dergisi 2 (2000): 101. Sabri Ateş, Ottoman-Iranian Borderlands (Cambridge University Press, 2013), 143-6.
 
 
 [^2]: M. Şükrü Hanioğlu, A Brief History of the Late Ottoman Empire (Princeton, NJ: Princeton University Press, 2010), 6-18. Eugene L. Rogan, Frontiers of the State in the Late Ottoman Empire (Cambridge: Cambridge University Press, 1999), 1–15.
@@ -46,9 +46,9 @@ Although we were able to locate 2368 place names mentioned in the _Seyahatname_,
 
 Creator of this dataset: Mustafa Emre Gunaydi
 
-Link to this<a href="https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv" class="link">[dataset](https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv)
+Link to this [dataset](https://github.com/mgunaydi/Seyahatname-i-Hudud/blob/main/Seyahatname-i%20Hudud_Baghdad%20and%20Basra.csv)
 
-License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Creative Commons 4.0 BY-NC-SA International</a> <br>
+License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Creative Commons 4.0 BY-NC-SA International</a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
 
 
