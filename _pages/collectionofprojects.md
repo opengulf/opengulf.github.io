@@ -7,7 +7,7 @@ date: 2024-02-16T18:38:52+00:00
 ### Projects
 
 
-[Abu Dhabi Calling!: Exploring Abu Dhabi Telephone Directories (1970-2000)]()
+[Abu Dhabi Calling!: Exploring Abu Dhabi Telephone Directories (1970-2000)](/ADcalling/)
   
 
 [Handwritten Gulf Archives: Deep Learning For Handwritten Text Recognition of Gulf Archives]()
