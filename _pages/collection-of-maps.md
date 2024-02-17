@@ -12,7 +12,7 @@ date: 2024-02-16
 
 4. [Wells on the Qatar Promontory](/wells/)
 
-5. [Bahrain Date Palm map]
+5. [Bahrain Date Palm map](/bahraindate/)
 
 6. [Camels in the 20th century Arabian Gulf](/camels/)
 
