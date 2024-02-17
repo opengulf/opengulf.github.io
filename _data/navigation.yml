@@ -8,7 +8,7 @@ main:
     url: /maps/
   - title: "Posts"
     url: /year-archive/
-  - title: "Tags"
-    url: /tags/
+  - title: "Research and Data"
+    url: /research/
   - title: "Team"
     url: /team/
