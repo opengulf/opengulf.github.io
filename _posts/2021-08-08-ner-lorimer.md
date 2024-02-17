@@ -158,7 +158,7 @@ height:490px;">
 
 Lastly, we write output of our NER model into csv files. We have two outputs from our model:
 
-- A list of all entities with their names, corresponding labels and POS tags. The generated csv file is called 'all-entities.csv'.
+1. A list of all entities with their names, corresponding labels and POS tags. The generated csv file is called 'all-entities.csv'.
  In the csv file (see figure 11), the name of each text file AAA precedes the table consisting of three rows: i) labels of all entities found in the file AA, ii) corresponding names of these entities and iii) Part of Speech tags of these entities.
 
 <img src="/assets/images/alma_nltk_blog/almablog12.png" style="width:220px;
@@ -166,14 +166,14 @@ height:340px;">
 
 <sub>Figure 11. Output 1: a list of all entities with their names, corresponding labels and POS tags.<sub>
 
-- A list of all entity names. The generated csv file is called 'all-entity-names.csv'. This particular file has already been used at OpenGulf to retrieve a list of dominant entities for each file. In the csv file, the first column of each row is the name of the text file and each row contains a list of entities for a particular text file (view figure 12).
+2. A list of all entity names. The generated csv file is called 'all-entity-names.csv'. This particular file has already been used at OpenGulf to retrieve a list of dominant entities for each file. In the csv file, the first column of each row is the name of the text file and each row contains a list of entities for a particular text file (view figure 12).
 
 <img src="/assets/images/alma_nltk_blog/almablog13.png" style="width:460px;
 height:250px;"> 
 
 <sub>Figure 12. Output 2: a list of all entity names.<sub>
 
-- Additionally, the NER system is capable of outputting only the first 20 NEs in a single file, rather than all of them. See the code here.
+3. Additionally, the NER system is capable of outputting only the first 20 NEs in a single file, rather than all of them. See the code here.
 Below is the code that is used to generate the output files:
 
 <img src="/assets/images/alma_nltk_blog/almablog14.png" style="width:390px;
@@ -188,4 +188,4 @@ One of the potential weaknesses of the NLTK NER classifier is that it is trained
 There are other general (language-independent) challenges that arise with the NER task. The word North and May can be parts of named entities for DATE and LOCATION, respectively, but could both be part of a PERSON. Conversely Christian Dior looks like a PERSON but is more likely to be of type ORGANIZATION. A term like Yankee will be an ordinary modifier in some contexts, but will be marked as an entity of type ORGANIZATION in the phrase Yankee infielders. Moreover, in the named entity recognition, both the beginning and end of multi-token sequences have to be identified: NEs can be multi-word names such as Persian Gulf or Oman National Library. There is no perfect solution to these general challenges yet, however, being able to train on manually selected texts (Lorimer’s dataset) and continuously finetune the classifier based on performance allows to address most of the potential challenges.
 
 
-  View the code for NER with NLTK pipeline in [github repository](https://github.com/opengulf/opengulf.github.io/tree/master/pipelines/ner_nltk).
+View the code for NER with NLTK pipeline in [github repository](https://github.com/opengulf/opengulf.github.io/tree/master/pipelines/ner_nltk).
