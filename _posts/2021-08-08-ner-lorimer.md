@@ -158,7 +158,7 @@ height:490px;">
 
 Lastly, we write output of our NER model into csv files. We have two outputs from our model:
 
-1. A list of all entities with their names, corresponding labels and POS tags. The generated csv file is called 'all-entities.csv'.
+- A list of all entities with their names, corresponding labels and POS tags. The generated csv file is called 'all-entities.csv'.
  In the csv file (see figure 11), the name of each text file AAA precedes the table consisting of three rows: i) labels of all entities found in the file AA, ii) corresponding names of these entities and iii) Part of Speech tags of these entities.
 
 <img src="/assets/images/alma_nltk_blog/almablog12.png" style="width:220px;
@@ -166,15 +166,14 @@ height:340px;">
 
 <sub>Figure 11. Output 1: a list of all entities with their names, corresponding labels and POS tags.<sub>
 
-
-2. A list of all entity names. The generated csv file is called 'all-entity-names.csv'. This particular file has already been used at OpenGulf to retrieve a list of dominant entities for each file. In the csv file, the first column of each row is the name of the text file and each row contains a list of entities for a particular text file (view figure 12).
+- A list of all entity names. The generated csv file is called 'all-entity-names.csv'. This particular file has already been used at OpenGulf to retrieve a list of dominant entities for each file. In the csv file, the first column of each row is the name of the text file and each row contains a list of entities for a particular text file (view figure 12).
 
 <img src="/assets/images/alma_nltk_blog/almablog13.png" style="width:460px;
 height:250px;"> 
 
 <sub>Figure 12. Output 2: a list of all entity names.<sub>
 
-3. Additionally, the NER system is capable of outputting only the first 20 NEs in a single file, rather than all of them. See the code here.
+- Additionally, the NER system is capable of outputting only the first 20 NEs in a single file, rather than all of them. See the code here.
 Below is the code that is used to generate the output files:
 
 <img src="/assets/images/alma_nltk_blog/almablog14.png" style="width:390px;
