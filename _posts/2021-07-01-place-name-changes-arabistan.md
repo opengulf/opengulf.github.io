@@ -25,5 +25,3 @@ Even in its presently incomplete state, the OpenGulf data on Arabistan can begin
 The data in this map is derived from the work that we know as Lorimer’s Gazetteer of the Persian Gulf, Oman and Central Arabia by matching the descriptions of cities to their contemporary equivalents. The dataset of names can be found [here](https://github.com/opengulf/Lorimer_data/blob/master/name_changes_Arabistan.csv).
 
 
-Suggested citation: 
-
