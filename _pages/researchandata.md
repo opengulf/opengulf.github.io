@@ -4,7 +4,7 @@ permalink: /research/
 date: 2024-02-16T18:38:52+00:00
 ---
 
-### Research Dissemination
+### Research Dissemination:
 
 Nora Barakat and Mustafa Emre Günaydı, "Mapping Gulf Spaces, Analyzing Imperial Texts: OpenGulf" Winter Institute in Digital Humanities, NYU Abu Dhabi, 17 January 2024.
 
@@ -49,15 +49,15 @@ Nora Barakat, Elham Fakhro, Nelida Fuccaro and David Joseph Wrisley, "Mapping Lo
 
 [Abu Dhabi Calling!: A Pilot Investigation of Spatial Patterns in Phone Directories](http://hdl.handle.net/2451/61212). Winter Institute in Digital Humanities, January 2020
 
-### Research Briefs
+### Research Briefs:
 
-"[CESTA Anthology 2020-21" Center for Spatial and Textual Analysis](https://github.com/opengulf/opengulf.github.io/blob/master/assets/images/cesta_anthology_excerpt.pdf) (Stanford), December 2021
+"[CESTA Anthology 2020-21" Center for Spatial and Textual Analysis]" (https://github.com/opengulf/opengulf.github.io/blob/master/assets/images/cesta_anthology_excerpt.pdf) (Stanford), December 2021
 
 "[AY 19-20 Undergraduate Research: OpenGulf](https://github.com/opengulf/opengulf.github.io/blob/master/assets/images/ay-19-20-urg-excerpt.pdf)" NYU Abu Dhabi Office of Undergraduate Research Report, May 2020
 
 "[The Open Gulf Project](https://github.com/opengulf/opengulf.github.io/blob/master/assets/images/Open%20Gulf%20May%202019.pdf)" NYU Abu Dhabi Arts and Humanities Division Research Report, May 2019
 
-Datasets
+### Datasets:
 
 The following datasets are all provided with a CC BY-NC-SA 4.0 license [(Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -75,6 +75,6 @@ Places of Wadi Al Tayin, Filename: [Wadi_Al_Tayin.csv](https://github.com/opengu
 
 Camels in the early 20th Century Arabian Gulf, Filename: [camels_Arabian_Gulf.csv](https://github.com/opengulf/Lorimer_data/blob/master/Wadi_Al_Tayin.csv), DOI:10.5281/zenodo.4678674
 
-Place Name Changes in Arabistan (Khuzestan), Filename: [name_changes_Arabistan.csv](https://github.com/opengulf/Lorimer_data/blob/master/name_changes_Arabistan.csv)
+Place Name Changes in Arabistan (Khuzestan), Filename: [name_changes_Arabistan.csv](https://github.com/opengulf/Lorimer_data/blob/master/name_changes_Arabistan.csv), DOI:10.5281/zenodo.4678674
 
-Last update: 16 February 2022
+**Last update:** 16 February 2022
