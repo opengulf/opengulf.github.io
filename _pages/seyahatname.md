@@ -5,7 +5,7 @@ date: 2024-02-16T18:38:52+00:00
 ---
 
 ## Mapping the Basra and Baghdad chapters of _Seyahatname-i Hudud_
-<iframe src="https://mustafaemregunaydi/Desktop/opengulf.github.io/webapps/Seyahatname_map_Baghdad%20&%20Basra/index.html" width="100%" height="700"></iframe>
+<iframe src="webapps/Seyahatname_map_Baghdad & Basra/index.html" width="100%" height="700"></iframe>
 
 
 ### About the Source: 
