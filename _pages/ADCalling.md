@@ -15,7 +15,7 @@ The “Abu Dhabi Calling!” draws inspiration from other studies of phone direc
 
 <img src="/assets/images/old_tel_exchanges_baqala.png" style="width:978px;height:765px;">
 
-Figure 1. Reconstructing the exchange map for Abu Dhabi. Point data of corner groceries (baqala-s) from OpenStreetMap overlaid on sectors of the city (sector datasource: geosmart.dmt.gov.ae)
+<sub>Figure 1. Reconstructing the exchange map for Abu Dhabi. Point data of corner groceries (baqala-s) from OpenStreetMap overlaid on sectors of the city (sector datasource: geosmart.dmt.gov.ae)<sub>
 
 The Abu Dhabi Calling! project is using directories from the following years: 1971, 1972, 1982-83, 1984-85, 1985-86, 1987, 1989, 1990, 1992, 1993, 1995, 1997, 2004, 2004 (mobile edition), 2006 (mobile edition). If you have other years that you would like to loan our project or to gift to NYUAD Archives and Special Collections, please contact us.
 
