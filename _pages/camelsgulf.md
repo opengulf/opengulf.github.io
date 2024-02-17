@@ -29,10 +29,10 @@ Z**Further mapping:**
   In building this dataset, we were unable to find 52 places, nearly all of them are in Iran. Unidentifiable places are included in the dataset and are labeled as such in column F (“Disambiguation…”).
 
 
-**Creator of this dataset:Z** Balaqis Al-Senani
+**Creator of this dataset:** Balaqis Al-Senani
 
 
-**Link to this** [dataset](https://github.com/opengulf/Lorimer_data/blob/master/camels_Arabian_Gulf.csv)
+### Link to this [dataset](https://github.com/opengulf/Lorimer_data/blob/master/camels_Arabian_Gulf.csv)
 
 
 **License:** <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Creative Commons 4.0 BY-NC-SA International</a> <br>
