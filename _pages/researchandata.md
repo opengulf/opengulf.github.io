@@ -24,7 +24,7 @@ Nora Barakat and Mohammed Khalil, “Annotation and Transcription Platforms and 
 
 Munther AlSabagh and David Joseph Wrisley, “Arabic Handwritten Archives from the Gulf Region: Challenges and Opportunities for Local Digital Research”, Right to Left Conference, Digital Humanities Summer Institute, June 2021.
 
-Nada Ammagui, Nora Barakat, Camille Cole, Moe Khalil and David Joseph Wrisley, "[OpenGulf: Creating Digital Research Infrastructures for Gulf Studies](ttps://youtu.be/4iiZsmDZWY4)" Center for Spatial and Textual Analysis (CESTA), Stanford University, 4 May 2021.
+Nada Ammagui, Nora Barakat, Camille Cole, Moe Khalil and David Joseph Wrisley, "[OpenGulf: Creating Digital Research Infrastructures for Gulf Studies](https://youtu.be/4iiZsmDZWY4)" Center for Spatial and Textual Analysis (CESTA), Stanford University, 4 May 2021.
 
 Nora Barakat and David Joseph Wrisley, "When Does it Become Open?" Engaging Open Social Scholarship (INKE), 8-10 December 2020.
 
