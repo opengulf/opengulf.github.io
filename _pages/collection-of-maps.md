@@ -14,6 +14,6 @@ date: 2024-02-16
 
 5. [Bahrain Date Palm map]
 
-6. [Camels in the 20th century Arabian Gulf]
+6. [Camels in the 20th century Arabian Gulf](/camels/)
 
 
