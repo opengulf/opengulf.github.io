@@ -20,7 +20,7 @@ date: 2024-02-16
 
 	- Illustrating the depth and quality of wells in the period 1904-1907
 
-5. [Bahrain Date Palm map](/bahraindate/)
+5. [Bahrain Date Palm Map](/bahraindate/)
 
 	- Quantities of date palms in Bahrain according to Lorimer
 
