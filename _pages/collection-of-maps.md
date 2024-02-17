@@ -10,7 +10,7 @@ date: 2024-02-16
 
 3. [Protection of the Pearling Industry](/pearl/)
 
-4. [Wells on the Qatar Promontory] 
+4. [Wells on the Qatar Promontory](/wells/)
 
 5. [Bahrain Date Palm map]
 
