@@ -39,8 +39,5 @@ The result of that method is actually impressive, as it has the ability to trans
 
 We used the abovementioned method to double the size of the Arabic transcription model's ground truth, soaring from 60 to approximately 120 pages in just a few days work. This substantial expansion played a pivotal role in enhancing the model's transcription accuracy. The positive impact on accuracy underscores the effectiveness of leveraging the Vision API and Google Docs integration for extending ground truth datasets.
 
-Yet, the versatility of this method extends beyond its role in crafting training page sets. Beyond its utility for training purposes, this technique opens doors to a spectrum of applications. It can be harnessed for diverse projects, ranging from data enrichment and analysis to creating comprehensive datasets for machine learning models in various domains. The seamless synergy between the Vision API and Google Docs presents a valuable tool that transcends its initial application, offering a flexible solution for data-related tasks across different fields.</p>
-
-
-Suggestion citation: 
+Yet, the versatility of this method extends beyond its role in crafting training page sets. Beyond its utility for training purposes, this technique opens doors to a spectrum of applications. It can be harnessed for diverse projects, ranging from data enrichment and analysis to creating comprehensive datasets for machine learning models in various domains. The seamless synergy between the Vision API and Google Docs presents a valuable tool that transcends its initial application, offering a flexible solution for data-related tasks across different fields.
 
