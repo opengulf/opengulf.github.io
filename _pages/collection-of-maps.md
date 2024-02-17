@@ -8,7 +8,7 @@ date: 2024-02-16
  
 2. [Seyahatname](/seyahatname/)
 
-3. [Protection of the Pearling Industry]
+3. [Protection of the Pearling Industry](/pearl/)
 
 4. [Wells on the Qatar Promontory] 
 
