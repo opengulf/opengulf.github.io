@@ -6,7 +6,7 @@ date: 2024-02-16
 
 
 1. [Mapping Ottoman Iraq Through the 19th & 20th Century Ottoman and British Sources](/seyandlor/)
-
+	- Comparing the Ottoman and British imaginations of Iraq region
 
 2. [Buraimi Oasis](/buraimi/)
 
