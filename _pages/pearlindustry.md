@@ -6,7 +6,7 @@ date: 2024-02-16T18:38:52+00:00
 
 ### Protection of the Pearling Industry
 
-<iframe src="opengulf.github.io/webapps/Pearlprotection/index.html#6/28.516/52.077" width="100%" height="800"></iframe>
+<iframe src="https://opengulf.github.io/webapps/Pearlprotection/index.html#6/28.516/52.077" width="100%" height="800"></iframe>
 
 
 **How to explore this map:** This map has only one data layer. It represents locations of pearling villages in the Gulf region in the early twentieth century. The colors on the map represent the flag of the protecting power of each of the villages. You can click on each of the points to get more information about the location, the number of pearling boats and divers from each place.
