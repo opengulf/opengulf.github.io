@@ -6,7 +6,7 @@ date: 2024-02-16T18:38:52+00:00
 
 Wells on the Qatar Promontory
 
-<iframe src="https://liyanibrahim.github.io/wells_new/webapp4/index.html" width="100%" height="600"></iframe>
+<iframe src="https:opengulf.github.io/webapps/qatarwells/index.html#9/25.4432/51.4018" width="100%" height="600"></iframe>
 
 How to explore this map: This map has only one layer. It represents locations of wells on the Qatar Promontory in the early twentieth century. The points on the map represent the location of the wells and the color of the point indicates the quality of water as indicated by John Gordon [Lorimer's](https://en.wikipedia.org/wikiGazetteer_of_the_Persian_Gulf,_Oman_and_Central_Arabia) Gazetteer of the Persian Gulf, Oman and Central Arabia. in the early twentieth century. You can hover over each of the points to get more information about the location of the wells, their depth and construction. 
 
