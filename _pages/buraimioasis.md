@@ -7,7 +7,7 @@ date: 2024-02-16T18:38:52+00:00
 ## Buraimi Oasis
 
  
-<iframe src="opengulf.github.io/webapps/buraimioasis/index.html#12/24.2281/55.8560" width="100%" height="400"></iframe>
+<iframe src="https://opengulf.github.io/webapps/buraimioasis/index.html#12/24.2281/55.8560" width="100%" height="400"></iframe>
 
 
 How to explore this map: This map has multiple layers that you can turn on and off using the legend (upper right). It represents the homes, date palms and the animals that are documented in John Gordon [Lorimer's](https://en.wikipedia.org/wiki/Gazetteer_of_the_Persian_Gulf,_Oman_and_Central_Arabia) Gazetteer of the Persian Gulf, Oman and Central Arabia for the historical neighborhoods of Buraimi.  Click on the picture icon and you will see a breakdown of the data for each of the neighborhoods in the pop-up box.
