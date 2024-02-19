@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Mobile meta tags to go in head-->
+        <meta name="HandheldFriendly" content="True">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="MobileOptimized" content="320"/>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta http-equiv="cleartype" content="on">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }.leaflet-popup-content {
+        min-width: 200px;
+        min-height: 100px;
+        overflow-y: scroll;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/Bahrain_Date_Palms_1.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:12
+        })
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+            if (bounds_group.getLayers().length) {
+                map.fitBounds(bounds_group.getBounds());
+            }
+        }
+        map.createPane('pane_OSMStandard_0');
+        map.getPane('pane_OSMStandard_0').style.zIndex = 400;
+        var layer_OSMStandard_0 = L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            pane: 'pane_OSMStandard_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
+            minZoom: 7,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_OSMStandard_0;
+        map.addLayer(layer_OSMStandard_0);
+        function pop_Bahrain_Date_Palms_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2"><strong>FILE</strong><br />' + (feature.properties['FILE'] !== null ? autolinker.link(feature.properties['FILE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>NAME</strong><br />' + (feature.properties['NAME'] !== null ? autolinker.link(feature.properties['NAME'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>DATE_PALMS</strong><br />' + (feature.properties['DATE_PALMS'] !== null ? autolinker.link(feature.properties['DATE_PALMS'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Bahrain_Date_Palms_1_0(feature) {
+            if (feature.properties['DATE_PALMS'] >= 300.000000 && feature.properties['DATE_PALMS'] <= 1400.000000 ) {
+                return {
+                pane: 'pane_Bahrain_Date_Palms_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(247,252,245,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DATE_PALMS'] >= 1400.000000 && feature.properties['DATE_PALMS'] <= 2420.000000 ) {
+                return {
+                pane: 'pane_Bahrain_Date_Palms_1',
+                radius: 7.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(202,234,195,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DATE_PALMS'] >= 2420.000000 && feature.properties['DATE_PALMS'] <= 4860.000000 ) {
+                return {
+                pane: 'pane_Bahrain_Date_Palms_1',
+                radius: 12.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(123,200,124,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DATE_PALMS'] >= 4860.000000 && feature.properties['DATE_PALMS'] <= 8290.000000 ) {
+                return {
+                pane: 'pane_Bahrain_Date_Palms_1',
+                radius: 18.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(42,146,74,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DATE_PALMS'] >= 8290.000000 && feature.properties['DATE_PALMS'] <= 19000.000000 ) {
+                return {
+                pane: 'pane_Bahrain_Date_Palms_1',
+                radius: 28.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(0,68,27,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_Bahrain_Date_Palms_1');
+        map.getPane('pane_Bahrain_Date_Palms_1').style.zIndex = 401;
+        map.getPane('pane_Bahrain_Date_Palms_1').style['mix-blend-mode'] = 'normal';
+        var layer_Bahrain_Date_Palms_1 = new L.geoJson(json_Bahrain_Date_Palms_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Bahrain_Date_Palms_1',
+            layerName: 'layer_Bahrain_Date_Palms_1',
+            pane: 'pane_Bahrain_Date_Palms_1',
+            onEachFeature: pop_Bahrain_Date_Palms_1,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_Bahrain_Date_Palms_1_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_Bahrain_Date_Palms_1);
+        map.addLayer(layer_Bahrain_Date_Palms_1);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'Bahrain_Date_Palms<br /><table><tr><td style="text-align: center;"><img src="legend/Bahrain_Date_Palms_1_30014000.png" /></td><td>300 - 1400 </td></tr><tr><td style="text-align: center;"><img src="legend/Bahrain_Date_Palms_1_140024201.png" /></td><td>1400 - 2420 </td></tr><tr><td style="text-align: center;"><img src="legend/Bahrain_Date_Palms_1_242048602.png" /></td><td>2420 - 4860 </td></tr><tr><td style="text-align: center;"><img src="legend/Bahrain_Date_Palms_1_486082903.png" /></td><td>4860 - 8290 </td></tr><tr><td style="text-align: center;"><img src="legend/Bahrain_Date_Palms_1_8290190004.png" /></td><td>8290 - 19000 </td></tr></table>': layer_Bahrain_Date_Palms_1,"OSM Standard": layer_OSMStandard_0,},{collapsed:false}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
