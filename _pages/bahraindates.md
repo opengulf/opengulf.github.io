@@ -7,7 +7,7 @@ date: 2024-02-16T18:38:52+00:00
 
 ## Bahrain Date Palm map
  
-<iframe src="https://liyanibrahim.github.io/dates_Bah/web/index.html#12/26.1725/50.5472" width="100%" height="800"></iframe>
+<iframe src="https://opengulf.github.io/webapps/bahrain_dates/index.html#12/26.1456/50.5474" width="100%" height="800"></iframe>
 
 
 How to explore this map: Click on the points to learn about the locations of date palms in Bahrain (and their quantities) documented in John Gordon 
