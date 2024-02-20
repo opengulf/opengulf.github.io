@@ -68,4 +68,4 @@ author_profile: false
 
 
 
-Check out the blogs written by the team [here](link)
+Check out the blogs written by the team [here](/year-archive/)
