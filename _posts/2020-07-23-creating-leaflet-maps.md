@@ -1,4 +1,5 @@
 ---
+layout: single
 title: " From Digital Historical Source to Leaflet Maps "
 excerpt_separator: "<!--more-->"
 categories:
