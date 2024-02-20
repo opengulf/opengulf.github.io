@@ -1,8 +1,9 @@
 ---
-layout: single
-classes: 
-    - wide
-    - landing
+layout: splash
+classes:
+  - landing
+  - dark-theme
+  
 title: " From Digital Historical Source to Leaflet Maps "
 excerpt_separator: "<!--more-->"
 categories:
