@@ -81,4 +81,4 @@ Camels in the early 20th Century Arabian Gulf, Filename: [camels_Arabian_Gulf.cs
 
 Place Name Changes in Arabistan (Khuzestan), Filename: [name_changes_Arabistan.csv](https://github.com/opengulf/Lorimer_data/blob/master/name_changes_Arabistan.csv), DOI:10.5281/zenodo.4678674
 
-**Last update:** 16 February 2022
+**Last update:** 16 February 2024
