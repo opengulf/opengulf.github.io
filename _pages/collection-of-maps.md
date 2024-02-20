@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Collection of Maps"
 permalink: /maps/
 date: 2024-02-16

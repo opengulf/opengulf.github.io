@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Projects"
 permalink: /projects/
 date: 2024-02-16

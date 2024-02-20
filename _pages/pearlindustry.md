@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Dates Map"
 permalink: /pearl/
 date: 2024-02-16T18:38:52+00:00

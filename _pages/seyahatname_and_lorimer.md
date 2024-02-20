@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Seyahatname and Lorimer Map"
 permalink: /seyandlor/
 date: 2024-02-16T18:38:52+00:00
