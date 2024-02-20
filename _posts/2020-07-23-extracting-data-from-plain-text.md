@@ -1,4 +1,9 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
+  
 title: " Extracting Data from Plain Text Files "
 excerpt_separator: "<!--more-->"
 categories:
