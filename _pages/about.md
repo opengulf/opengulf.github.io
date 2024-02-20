@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
