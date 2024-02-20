@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: single
+classes: wide
 title: " From Digital Historical Source to Leaflet Maps "
 excerpt_separator: "<!--more-->"
 categories:
