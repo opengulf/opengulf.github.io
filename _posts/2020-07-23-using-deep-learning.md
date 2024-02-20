@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: " Handwritten Gulf Archives  "
 excerpt_separator: "<!--more-->"
 categories:

@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Named Entity Recognition in Lorimer's Gazetteer with NLTK"
 excerpt_separator: "<!--more-->"
 categories:

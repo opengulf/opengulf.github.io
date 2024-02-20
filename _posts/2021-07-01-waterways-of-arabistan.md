@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "The Waterways of Arabistan (Khuzestan) in Lorimer's Gazetteer"
 excerpt_separator: "<!--more-->"
 categories:

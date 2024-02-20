@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Building Handwritten Ground Truth for HTR with the Google Vision API in Google Drive"
 excerpt_separator: "<!--more-->"
 categories:

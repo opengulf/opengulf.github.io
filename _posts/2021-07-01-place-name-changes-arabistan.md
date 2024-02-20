@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Place Name Changes in Arabistan (Khuzestan)"
 excerpt_separator: "<!--more-->"
 $paragraph-indent: true

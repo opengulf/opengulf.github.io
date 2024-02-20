@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: " Wādi Tāyīn: Then and Now "
 excerpt_separator: "<!--more-->"
 categories:
