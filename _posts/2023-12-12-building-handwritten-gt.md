@@ -15,7 +15,7 @@ tags:
 
 ## Building Handwritten Ground Truth for HTR with the Google Vision API in Google Drive 
 
-### Fady John
+### By Fady John
 
 
 In today's digital era, leveraging advanced technologies to streamline and enhance a scholarly workflow is important. One such technology that has been making waves is the Vision API, a powerful tool provided by Google Cloud. 
