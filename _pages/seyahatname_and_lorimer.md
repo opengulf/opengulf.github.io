@@ -8,7 +8,7 @@ permalink: /seyandlor/
 date: 2024-02-16T18:38:52+00:00
 ---
 
-## Mapping Ottoman Iraq Through the 19th & 20th Century Ottoman and British Sources
+## Mapping Ottoman Iraq Through The 19th & 20th Century Ottoman and British Sources
 
 
 <iframe src="https://opengulf.github.io/webapps/lorimer_and_seyahatname_combined_leaflet_map/index.html#6/33.793/45.018" width="100%" height="700"></iframe>
