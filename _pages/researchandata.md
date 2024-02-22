@@ -22,7 +22,7 @@ _Shory Paper Publication_, [Abu Dhabi Calling!: A Pilot Investigation of Spatial
 
 ## Research Dissemination:
 
-_Research Poster Presentation_, Nora Barakat and Mustafa Emre Günaydı, "Mapping Gulf Spaces, Analyzing Imperial Texts: OpenGulf" Winter Institute in Digital Humanities, NYU Abu Dhabi, 17 January 2024.
+_Research Poster Presentation_, Nora Barakat and Mustafa Emre Günaydı, "[Mapping Gulf Spaces, Analyzing Imperial Texts: OpenGulf](https://github.com/opengulf/opengulf.github.io/blob/3936a1b3d9185fb0fb5699e008b9de7b44a0f607/_data/researchmaterials/NYU%20Abu%20Dhabi_Poster%20Presentation-2.pptx)" Winter Institute in Digital Humanities, NYU Abu Dhabi, 17 January 2024.
 
 _Research Presentation_, Nora Barakat and David Joseph Wrisley, "[OpenGulf: Toward a Post-National Digital History" Research Institute for the Humanities](https://www.youtube.com/watch?v=HfFt5nZLSB4)," The Chinese University of Hong Kong, 24 October 2022.
 
