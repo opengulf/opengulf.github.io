@@ -66,6 +66,8 @@ date: 2024-02-16T18:38:52+00:00
 
 > The following datasets are all provided with a CC BY-NC-SA 4.0 license [(Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+ Mapping Ottoman Iraq Through The 19th & 20th Century Ottoman and British Sources, Filename: [Seyahatname and Lorimer Iraq Place Names](https://zenodo.org/records/10674707), DOI 10.5281/zenodo.10674707.
+
 Mapping Baghdad and Basra Chapters of _Seyahatname-i Hudud_, Filename: [Seyahatname-i Hudud_Baghdad and Basra.csv](https://zenodo.org/records/8356455), DOI 10.5281/zenodo.8356406.
 
 Wells on the Qatar Promontory, Filename: [wells_qatar_1904-07.csv](https://github.com/opengulf/Lorimer_data/blob/master/wells_qatar_1904-07.csv), DOI:10.5281/zenodo.4678674.
