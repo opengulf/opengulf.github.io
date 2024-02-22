@@ -18,7 +18,7 @@ _Short Paper Publication_, [Fine Tuning NER with spaCy for Transliterated Entiti
 
 _Short Paper Publication_, [Finding Culture in Data Preparation: Interdisciplinarity and the Phone Book](http://hdl.handle.net/2451/63602). European Association of Digital Humanities (EADH 2021), Krasnoyarsk, Russia, 21-24 September 2021 (peer reviewed)
 
-_Shory Paper Publication_, [Abu Dhabi Calling!: A Pilot Investigation of Spatial Patterns in Phone Directories](http://hdl.handle.net/2451/61212). Winter Institute in Digital Humanities, January 2020
+_Short Paper Publication_, [Abu Dhabi Calling!: A Pilot Investigation of Spatial Patterns in Phone Directories](http://hdl.handle.net/2451/61212). Winter Institute in Digital Humanities, January 2020
 
 ## Research Dissemination:
 
