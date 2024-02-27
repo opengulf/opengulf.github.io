@@ -58,6 +58,13 @@ To summarize the steps, the system starts with splitting the raw text into words
 
 Firstly, to facilitate work of the classifier and convert input texts to the suitable format for NLTK, we need to preprocess input texts. After experiments and literature review, we performed the following preprocessing steps:
 
+<<<<<<< Updated upstream
+=======
+To summarize the steps, the system starts with _splitting the raw text_ into words using a tokenizer (sometimes pre-segmenting text into sentences first). Next, each sentence is tagged with <b>part-of-speech tags</b>, which will prove very helpful in the next steps: <b>chunking</b> and finally <b>named entity detection</b>.
+</p>
+<h5 style="font-size: 16px"><i>Text preprocessing</i></h5>
+<p>Firstly, to facilitate work of the classifier and convert input texts to the suitable format for NLTK, we need to preprocess input texts. After experiments and literature review, we performed the following preprocessing steps:<br/>
+>>>>>>> Stashed changes
 a. Transliterate common Arabic letters to English letters based on the list provided by Professor Wrisley. This step was introduced after the initial run of the system showed that entities starting with an Arabic letter are not recognized; for example, the word Ārabistan is not recognized. This could be potentially explained by the fact that the NLTK model is not trained on non-English words (see more in the ‘Flaws’ section).
 
 <img src="/assets/images/alma_nltk_blog/almablog3.png" style="width:500px;
