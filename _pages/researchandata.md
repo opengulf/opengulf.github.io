@@ -12,7 +12,7 @@ date: 2024-02-16T18:38:52+00:00
 
 ## Research Publications:
 
-(_Journal Article_), Camille Lyans Cole, Nora Elizabeth Barakat, Nada Ammagui, and David Joseph Wrisley. “[Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910.](https://muse.jhu.edu/article/902202)”_Journal of the Ottoman and Turkish Studies Association_ 9, no. 2 (September 2022): 205–42.
+(_Journal Article_), Camille Lyans Cole, Nora Elizabeth Barakat, Nada Ammagui, and David Joseph Wrisley. “[Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910](https://muse.jhu.edu/article/902202)”_Journal of the Ottoman and Turkish Studies Association_ 9, no. 2 (September 2022): 205–42.
 
 (_Short Paper Publication_), [Fine Tuning NER with spaCy for Transliterated Entities Found in Digital Collections From the Multilingual Persian Gulf](https://archive.nyu.edu/handle/2451/63845). 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022), Uppsala University, Sweden, 15–18 March 2022 (peer reviewed)
 
