@@ -10,7 +10,7 @@ date: 2024-07-19
 
 ### Date Palms in the Gulf Region
   
-<iframe src="opengulf.github.io/webapps/datepalms_map/index.html#4/33.68/61.63" width="100%" height="700"></iframe>
+<iframe src="https://opengulf.github.io/webapps/datepalms_map/index.html#4/33.68/61.63" width="100%" height="700"></iframe>
 
 
 **How to explore this map:** Click on the points to learn about the locations of date palms documented in John Gordon Lorimer’s of the Persian Gulf, Oman and Central Arabia. The density and size of the green dots indicate the concentration of date palms in various regions. 
