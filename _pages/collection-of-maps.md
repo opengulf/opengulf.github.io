@@ -10,7 +10,7 @@ date: 2024-02-16
 
 1. [Date Palms in the Gulf Region](/datepalms/)
 
-	- Mapping Date Palms Throughtout the Gulf Region
+	- Mapping Date Palms Throughout the Gulf Region
 
 2. [Mapping Ottoman Iraq Through the 19th & 20th Century Ottoman and British Sources](/seyandlor/)
 
