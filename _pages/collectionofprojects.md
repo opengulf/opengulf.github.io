@@ -14,10 +14,10 @@ date: 2024-02-16
 [Abu Dhabi Calling!: Exploring Abu Dhabi Telephone Directories (1970-2000)](/ADcalling/)
   
 
-[Handwritten Gulf Archives: Deep Learning For Handwritten Text Recognition of Gulf Archives]()
+[Handwritten Gulf Archives: Deep Learning For Handwritten Text Recognition of Gulf Archives](/htrproject/)
 
 
-[Historical Texts as Data: Mining and Visualizing Historical Data About the Gulf]()
+[Historical Texts as Data: Mining and Visualizing Historical Data About the Gulf](/historicaltextsasdata/)
  
 
-[Dish by Dish: A Community Project About Food in the Arabian Gulf Region]()
+[Dish by Dish: A Community Project About Food in the Arabian Gulf Region](/dishbydish/)

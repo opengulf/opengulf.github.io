@@ -28,8 +28,6 @@ author_profile: false
 | Mustafa Emre Günaydı | Stanford U | web design, project management, disambiguation, data analysis, mapping |
 | Moe Khalil | Stanford U | automatic transcription of Arabic, annotation, transcription |
 | Süphan Kırmızıaltın | NYU Abu Dhabi | automatic transcription, data modeling, HTR model creation |
-
-| name | affiliation | responsibilities |
 | Iman Deriche | Stanford U | annotation, disambiguation, data analysis, mapping |
 | Julia Fine | Stanford U | annotation, disambiguation, data analysis, mapping |
 | Jana Abdullah Gomri | Stanford U | annotation, disambiguation, data analysis, mapping, automatic transcription of Arabic |
