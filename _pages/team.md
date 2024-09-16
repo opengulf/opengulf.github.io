@@ -16,8 +16,8 @@ author_profile: false
 
 ## Project Co-Directors
 
--Nora Barakat (Stanford)
--David Joseph Wrisley (NYU Abu Dhabi)
+- Nora Barakat (Stanford)
+- David Joseph Wrisley (NYU Abu Dhabi)
 
 	
 ## Current Team Members
@@ -66,4 +66,4 @@ author_profile: false
 
 
 
-Check out the blogs written by the team [here](/year-archive/)
+A list of posts written by the team [here](/year-archive/).
