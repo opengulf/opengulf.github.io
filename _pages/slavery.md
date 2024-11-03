@@ -8,11 +8,10 @@ permalink: /slavery/
 date: 2024-11-02T18:38:52+00:00
 ---
 
-### Slavery in the Gulf
+### Mapping Slavery in the Gulf
 
 <iframe src="https://opengulf.github.io/webapps/slavery_map/index.html#5/29.583/51.814" width="100%" height="800"></iframe>
 
-By Khosiyat Khoripova
 
 **Overview of Slavery in the Gulf Region:** Slavery in the Gulf region was deeply tied to its economic and social structures, with enslaved individuals forming a significant part of the labor force in various sectors. This distribution highlights the socio-economic hierarchies that perpetuated the practice of slavery in the region. Wealthy merchants and landowners often had large numbers of slaves working in their households, with some records indicating as many as 50 or more slaves in affluent families. For instance, in Bahrain, enslaved individuals were primarily employed in the pearl fishing industry. Their labor was crucial to the industry’s success, and their masters frequently rented them out for pearl diving. Enslaved laborers were also involved in agriculture, particularly in regions like Oman and along the Persian Coast, where seasonal labor needed surged during harvest periods.
 
