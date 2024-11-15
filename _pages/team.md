@@ -41,6 +41,7 @@ author_profile: false
 
 | name | affiliation | responsibilities |
 | Yesmine Abida | NYU Abu Dhabi | annotation, research |
+| Nouf AlNuaimi | NYU Abu Dhabi | annotation, research |
 | Salama AlZaabi | NYU Abu Dhabi | annotation, research |
 | Prince Ampofo | NYU Abu Dhabi | digitization, image manipulation, data enrichment |
 | Zaina Awan | NYU Abu Dhabi | annotation, transcription, data analysis |
